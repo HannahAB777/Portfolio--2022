@@ -10,15 +10,18 @@ body{
     background-color: thistle;
 }
 
+nav{
+    background-color: mediumorchid;
+}
+
 .hannah-icon{
 width: 70px;
 height: 90px;
 margin: 10px, 10px, 10px, 10px;
 
 }
-.card{
-    padding-top: 15px;
-}
+
+
 #about-me{
     height: 200px;
     width: 80%;
