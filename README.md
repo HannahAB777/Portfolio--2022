@@ -6,6 +6,8 @@ To showcase my projects as I learn and grow in web development. you will find sc
 
 at the bottom of the page you will fin links to contact me and my resume in a downloadable PDF
 
+here is how the paage should appear when opened:
+![Uploading image.png…]()
 
 # Authors
 Hannah Allison-Batt
